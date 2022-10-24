@@ -1,0 +1,18 @@
+﻿syntax = "proto3";
+option csharp_namespace = "Inventory";
+
+service InventoryService{
+  rpc GetAll(Empty) returns (InventoryItems);
+}
+
+message Empty {}
+
+message InventoryItem {
+  string ItemId = 1;
+  string ItemName = 2;
+  int32 AvailableAmount = 3;
+}
+
+message InventoryItems {
+  repeated InventoryItem items = 1;
+}

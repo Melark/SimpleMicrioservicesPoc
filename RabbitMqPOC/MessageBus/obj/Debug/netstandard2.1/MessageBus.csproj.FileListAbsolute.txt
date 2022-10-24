@@ -1,0 +1,10 @@
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\bin\Debug\netstandard2.1\MessageBus.deps.json
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\bin\Debug\netstandard2.1\MessageBus.dll
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\bin\Debug\netstandard2.1\MessageBus.pdb
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.csproj.AssemblyReference.cache
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.AssemblyInfoInputs.cache
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.AssemblyInfo.cs
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.dll
+C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\obj\Debug\netstandard2.1\MessageBus.pdb

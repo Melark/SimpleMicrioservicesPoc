@@ -1,0 +1,2 @@
+obj\Debug\net6.0\ServiceIntegration\InventoryService/Inventory.cs \
+obj\Debug\net6.0\ServiceIntegration\InventoryService/InventoryGrpc.cs: ServiceIntegration/InventoryService/inventory.proto

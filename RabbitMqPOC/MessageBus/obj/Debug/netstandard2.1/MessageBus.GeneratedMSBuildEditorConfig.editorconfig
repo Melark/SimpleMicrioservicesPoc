@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MessageBus
+build_property.ProjectDir = C:\Users\marka\git\RabbitMqPOC\RabbitMqPOC\MessageBus\
